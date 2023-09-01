@@ -9,7 +9,7 @@ on:
       - '*'
 
 env:
-  PROJECT_URL: https://github.com/pftf/RPi4
+  PROJECT_URL: https://github.com/jkyu8i9568yt/RPi4
   RPI_FIRMWARE_URL: https://github.com/raspberrypi/firmware/
   ARCH: AARCH64
   COMPILER: GCC5
