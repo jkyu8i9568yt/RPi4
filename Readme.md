@@ -35,6 +35,8 @@ __PLEASE READ THE FOLLOWING:__
   limit by going to `Device Manager` → `Raspberry Pi Configuration` → `Advanced Settings`
   in the UEFI settings.
 
+* lol no
+
 * This firmware is built from the
   [official EDK2 repository](https://github.com/tianocore/edk2-platforms/tree/master/Platform/RaspberryPi/RPi4),
   with the following extra patch applied:
